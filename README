@@ -1,3 +1,7 @@
 # ping
 I hate ping command that doesn't show timeout error (eg. vyos ping)
 
+# usage
+```
+$ sudo ./main 8.8.8.8
+```
